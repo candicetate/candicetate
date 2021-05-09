@@ -2,6 +2,10 @@
 
 Entrepreneur, Customer Service Expert, Code Junkie
 
+I'm a digital creator: I like working on just about anything in digital format! I can design websites, create digital art, work on digital marketing, eCommerce, and more! I'm an extremely self-motivated worker. I'm a creative problem solver that can find a solution for just about anything.
+
+Technically speaking, I have a wide range of skills. I have experience working with the Adobe Creative Suite, as well as digital art programs like ProCreate or Aseprite. I have experience with HTML, CSS, Javascript, React, as well as working with API. I'm a quick learner that can adapt to any software in a short time.
+
 # About Me
 
 - I have 3 beautiful cat assistants :cat::cat::cat:
