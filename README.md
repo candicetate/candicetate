@@ -1,6 +1,6 @@
 # Candice's Sweet README file! :octocat:
 
-Welcome to my GitHub! I'm going to be posting projects as I work on them. I'm still fairly new to coding, so any feedback is appreciated!
+Entrepreneur, Customer Service Expert, Code Junkie
 
 # About Me
 
@@ -14,6 +14,8 @@ Welcome to my GitHub! I'm going to be posting projects as I work on them. I'm st
 
 - Getting better at JavaScript :iphone:
 - Improving my web design skills :art:
+- Learning PHP :loop:
+- Working on my online store :credit_card:
 
 # Some Projects I'm Proud of
 
