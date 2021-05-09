@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm going to be posting projects as I work on them. I'm st
 # Socials
 
 - [Website](http://candicetate.com) :computer:
+- [Merch](http://www.catladycreates.com) :gift:
 - [Twitter](https://twitter.com/CatLadyCreates) :baby_chick:
 - [Facebook](https://www.facebook.com/catladycreates) :thumbsup:
 - [Instagram](https://www.instagram.com/catlady.creates/) :camera:
