@@ -18,7 +18,6 @@ Technically speaking, I have a wide range of skills. I have experience working w
 
 - Getting better at JavaScript :iphone:
 - Improving my web design skills :art:
-- Learning PHP :loop:
 - Working on my online store :credit_card:
 
 # Some Projects I'm Proud of
